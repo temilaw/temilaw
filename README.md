@@ -1,7 +1,15 @@
 # Joan Lawal
-### Hi there 👋
 
+# Hi there, I'm Temilaw 👋  
+🌟 Transitioning from teaching to tech, with a focus on data analysis.  
+📊 Passionate about leveraging data to drive change and solve real-world problems.  
 
+## 🛠️ Skills & Tools  
+- **Programming:** Python (Pandas, Matplotlib, Seaborn, Scikit-learn)  
+- **Data:** Cleaning, Analysis, Visualization, Predictive Modeling  
+- **Tools:** Jupyter Notebook, Excel, Google Sheets  
+
+## 📂 Projects  
 
 <!--
 **temilaw/temilaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
